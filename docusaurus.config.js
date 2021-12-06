@@ -43,9 +43,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'TalentBrick INBO Preparation',
+        title: 'INBO Preparation',
         logo: {
-          alt: 'Indian National Biology Olympiad Preparation',
+          alt: 'TalentBrick INBO Preparation',
           src: 'img/logo.svg',
         },
         items: [
