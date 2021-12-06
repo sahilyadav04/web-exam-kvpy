@@ -47,3 +47,7 @@ html[data-theme='dark'] .medium-zoom--opened .medium-zoom-overlay {
 .menu, .navbar__link , .navbar__items--right>:last-child , .navbar__toggle {
     margin-bottom: 6px;
 }
+.navbar-sidebar__brand .navbar__brand .navbar__logo, .navbar-sidebar__brand .navbar__brand .navbar__title {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
