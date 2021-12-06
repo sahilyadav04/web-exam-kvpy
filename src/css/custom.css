@@ -40,3 +40,7 @@ html[data-theme='dark'] .medium-zoom--opened .medium-zoom-overlay {
     margin-top: -11px;
     margin-right: 0px !important;
 }
+.navbar__title {
+    font-size: 19px;
+    margin-bottom: 5px;
+}
