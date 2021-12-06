@@ -31,7 +31,7 @@ const config = {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/talentbrick/web-exam-inbo/edit/main/blog/',
+            'https://github.com/talentbrick/web-exam-inbo/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
