@@ -46,7 +46,7 @@ const config = {
         title: 'TalentBrick INBO Preparation',
         logo: {
           alt: 'Indian National Biology Olympiad Preparation',
-          src: 'img/logo.svg',
+          src: 'apple-touch-icon.png',
         },
         items: [
           {
