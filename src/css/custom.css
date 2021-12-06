@@ -44,3 +44,6 @@ html[data-theme='dark'] .medium-zoom--opened .medium-zoom-overlay {
     font-size: 19px;
     margin-bottom: 5px;
 }
+.menu, .navbar__link {
+    margin-bottom: 6px;
+}
