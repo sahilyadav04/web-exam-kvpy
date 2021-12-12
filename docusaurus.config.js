@@ -25,6 +25,8 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl: 'https://github.com/talentbrick/web-exam-inbo/edit/main/',
+          showLastUpdateAuthor: false,
+          showLastUpdateTime: true,
         },
         blog: {
           feedOptions: {
