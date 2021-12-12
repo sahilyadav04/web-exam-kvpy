@@ -38,11 +38,20 @@ html[data-theme='dark'] .medium-zoom--opened .medium-zoom-overlay {
 .navbar__logo {
     height: 4rem;
     margin-top: -11px;
-    margin-right: 0px !important;
+    margin-right: 0px;
+}
+[class^="sidebarLogo"] img {
+  height: 4rem !important;
+  margin-top: 1px;
+  margin-right: 0px !important;
 }
 .navbar__title {
     font-size: 19px;
     margin-bottom: 5px;
+}
+[class^="sidebarLogo"] b {
+  font-size: 19px;
+  margin-top: 5px;
 }
 .menu, .navbar__link , .navbar__items--right>:last-child , .navbar__toggle {
     margin-bottom: 6px;
