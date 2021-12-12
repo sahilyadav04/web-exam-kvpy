@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'TalentBrick INBO Preparation',
   tagline: 'Prepare for Indian National Biology Olympiad at a glance with TalentBrick open-source education model.',
-  url: 'https://inbo.talentbrick.com/',
+  url: 'https://inbo.talentbrick.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
