@@ -51,6 +51,7 @@ const config = {
       hideableSidebar: true,
       navbar: {
         title: 'INBO Preparation',
+        hideOnScroll: true,
         logo: {
           alt: 'TalentBrick INBO Preparation',
           src: 'img/logo.svg',
