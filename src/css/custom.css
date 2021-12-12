@@ -82,7 +82,7 @@ html[data-theme='dark'] .header-github-link:before {
     no-repeat;
 }
 .hmcl2 {
-  margin-right: 10px;
+  margin: 20px 36px;
 }
 .hmcl2:hover {
   background-color: var(--ifm-color-secondary);
