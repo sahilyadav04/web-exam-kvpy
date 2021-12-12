@@ -1,11 +1,12 @@
 import React from 'react';
 import clsx from 'clsx';
 import styles from './HomepageFeatures.module.css';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 
 const FeatureList = [
   {
     title: 'Content from INBO Toppers',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    thumbnail: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
   Directy learn from INBO toppers and learn new concepts at first sight.
