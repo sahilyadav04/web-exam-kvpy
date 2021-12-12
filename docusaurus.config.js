@@ -67,7 +67,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Resources',
             items: [
               {
                 label: 'Tutorial',
@@ -106,7 +106,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} · <a href="https://www.talentbrick.com/" alt="TalentBrick">Talent Brick</a> · All Rights Reserved`,
       },
       prism: {
         theme: lightCodeTheme,
