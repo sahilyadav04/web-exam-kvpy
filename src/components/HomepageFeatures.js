@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Quality and Specific Content',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
       "Don't study hard but study Smart!" We give you specific guidance for each topic from different authors.
