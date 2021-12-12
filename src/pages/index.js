@@ -29,8 +29,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`Home`}
+      description="Prepare for Indian National Biology Olympiad at a glance with our open-source education model. No ADS! No Trackers! Learn without any disturbance only on TalentBrick.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

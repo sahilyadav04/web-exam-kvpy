@@ -27,6 +27,10 @@ const config = {
           editUrl: 'https://github.com/talentbrick/web-exam-inbo/edit/main/',
         },
         blog: {
+          feedOptions: {
+            type: null,
+            copyright: `Copyright © ${new Date().getFullYear()} | Talent Brick | All Rights Reserved`,
+          },
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
