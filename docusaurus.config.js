@@ -29,6 +29,7 @@ const config = {
           showLastUpdateTime: true,
         },
         blog: {
+          blogSidebarCount: 0,
           feedOptions: {
             type: null,
             copyright: `Copyright © ${new Date().getFullYear()} | Talent Brick | All Rights Reserved`,
