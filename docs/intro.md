@@ -4,6 +4,10 @@ sidebar_position: 1
 
 # Tutorial Intro test
 
+<head>
+<title>Testing title</title>
+</head>
+
 Let's discover **Docusaurus in less than 5 minutes**.
 
 ## Getting Started
