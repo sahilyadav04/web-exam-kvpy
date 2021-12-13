@@ -6,15 +6,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'TalentBrick INBO Preparation',
-  tagline: 'Prepare for Indian National Biology Olympiad at a glance with TalentBrick open-source education model.',
-  url: 'https://inbo.talentbrick.com',
+  title: 'TalentBrick KVPY Preparation',
+  tagline: 'Prepare for Kishore Vaigyanik Protsahan Yojana at a glance with TalentBrick open-source education model.',
+  url: 'https://kvpy.talentbrick.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'talentbrick', // Usually your GitHub org/user name.
-  projectName: 'web-exam-inbo', // Usually your repo name.
+  projectName: 'web-exam-kvpy', // Usually your repo name.
 
   presets: [
     [
@@ -24,7 +24,7 @@ const config = {
         docs: {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/talentbrick/web-exam-inbo/edit/main/',
+          editUrl: 'https://github.com/talentbrick/web-exam-kvpy/edit/main/',
           showLastUpdateAuthor: false,
           showLastUpdateTime: true,
         },
@@ -37,7 +37,7 @@ const config = {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/talentbrick/web-exam-inbo/edit/main/',
+            'https://github.com/talentbrick/web-exam-kvpy/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -51,10 +51,10 @@ const config = {
     ({
       hideableSidebar: true,
       navbar: {
-        title: 'INBO Preparation',
+        title: 'KVPY@TalentBrick',
         hideOnScroll: true,
         logo: {
-          alt: 'TalentBrick INBO Preparation',
+          alt: 'TalentBrick KVPY Preparation',
           src: 'img/logo.svg',
         },
         items: [
@@ -66,7 +66,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/talentbrick/web-exam-inbo',
+            href: 'https://github.com/talentbrick/web-exam-kvpy',
             position: 'right',
             className: 'header-github-link',
             'aria-label': 'GitHub Repository',

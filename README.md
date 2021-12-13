@@ -1,4 +1,4 @@
 # TalentBrick INBO Preparation
-Prepare for Indian National Biology Olympiad at a glance with TalentBrick open-source education model.
+Prepare for Kishore Vaigyanik Protsahan Yojana at a glance with TalentBrick open-source education model.
 
-### [Start Learning](https://inbo.talentbrick.com)
+### [Start Learning](https://kvpy.talentbrick.com)
