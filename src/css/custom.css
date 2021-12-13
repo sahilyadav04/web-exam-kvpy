@@ -87,3 +87,14 @@ html[data-theme='dark'] .header-github-link:before {
 .hmcl3 {
   margin: 20px 36px;
 }
+
+.blog-list-page article , .blog-tags-post-list-page article {
+  border: 2px solid;
+  padding: 15px;
+  box-shadow: 7px 9px #2196f2;
+  transition: 0.19s all;
+}
+.blog-list-page article:hover , .blog-tags-post-list-page article:hover {
+  box-shadow: 0px 0px;
+  border-color: #2196f2;
+}
