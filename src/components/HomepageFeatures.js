@@ -5,11 +5,11 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 const FeatureList = [
   {
-    title: 'Content from INBO Toppers',
+    title: 'Content from KVPY Toppers',
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-  Directy learn from INBO toppers and learn new concepts at first sight.
+  Directy learn from KVPY toppers and learn new concepts at first sight.
       </>
     ),
   },
