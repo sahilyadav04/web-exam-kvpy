@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'TalentBrick KVPY Preparation',
+  title: 'KVPY@TalentBrick',
   tagline: 'Prepare for Kishore Vaigyanik Protsahan Yojana at a glance with TalentBrick open-source education model.',
   url: 'https://kvpy.talentbrick.com',
   baseUrl: '/',
