@@ -35,7 +35,7 @@ export default function Home() {
   return (
     <Layout
       title={`Home`}
-      description="Prepare for Indian National Biology Olympiad at a glance with our open-source education model. No ADS! No Trackers! Learn without any disturbance only on TalentBrick.">
+      description="Prepare for Kishore Vaigyanik Protsahan Yojana at a glance with our open-source education model. No ADS! No Trackers! Learn without any disturbance only on TalentBrick.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
