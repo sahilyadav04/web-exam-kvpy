@@ -3,6 +3,7 @@ slug: preparation-strategy-kvpy-sa
 title: Strategy For Preparation of KVPY SA
 authors: priyansh
 tags: [strategy, story, kvpy sa, experience]
+image: https://icdn.talentbrick.com/main/priyansh-singh-kvpy-blog.png
 ---
 
 I am Priyansh Singh and I secured AIR 198 in KVPY SA 2019. Here I am going to share my experience of clearing the KVPY SA exam as well as provide you with some tips and guidance to excel in your preparation. 
