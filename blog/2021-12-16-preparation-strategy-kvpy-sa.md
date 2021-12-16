@@ -25,7 +25,7 @@ In biology, the questions asked are generally easy and usually based on basic kn
 
 ## Mathematics
 For mathematics, since I was a NEET aspirant, I cannot guide you much, but basic number theory and Permutation and Combination are important topics and helped me to get a decent score.
-But to get a fair idea of the kind of questions you can expect in your exam, it is always advisable to solve lots of KVPY previous year papers. They give you an insight into the actual KVPY exam and help you analyze its difficulty level. Time yourself sincerely and start solving at least one paper a week. I would recommend the book - Arihant 12 years solved paper, it helped me a lot. 
+But to get a fair idea of the kind of questions you can expect in your exam, it is always advisable to solve lots of KVPY previous year papers. They give you an insight into the actual KVPY exam and help you analyze its difficulty level. Time yourself sincerely and start solving at least one paper a week. I would recommend the book - [Arihant 12 years solved paper](https://amzn.to/3GN9Lu7), it helped me a lot. 
 
 Besides, the other books I practiced are as follows-
 - [Physical chemistry by N Awasthi](https://amzn.to/3GI5Nms)
